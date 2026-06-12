@@ -20,4 +20,4 @@
 Next.js · TypeScript · Supabase · Expo · Python — 그리고 Claude Code를 비롯한 AI 도구를 풀스택으로 씁니다.
 만드는 과정 자체를 콘텐츠로 기록합니다.
 
-📮 협업·강의 문의: stanlee3927@gmail.com
+📮 협업·강의 문의: stanlee7@naver.com
