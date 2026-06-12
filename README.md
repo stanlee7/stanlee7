@@ -2,7 +2,7 @@
 
 **아이디어를 일주일 안에 실서비스로.** AI 도구로 기획부터 배포까지 혼자 해내는 빌더이자 AI 강사입니다.
 
-🔗 **전체 프로젝트 케이스 스터디 → [stanlee-portfolio.vercel.app](https://stanlee-portfolio.vercel.app)**
+🔗 **전체 프로젝트 케이스 스터디 → [stanlee7.vercel.app](https://stanlee7.vercel.app)**
 
 ## 대표 프로젝트
 
