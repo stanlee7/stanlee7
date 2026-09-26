@@ -1,23 +1,26 @@
-# 안녕하세요, 스탠리입니다 👋
+# 기업 AI 교육·업무 자동화 구축
 
-**아이디어를 일주일 안에 실서비스로.** AI 도구로 기획부터 배포까지 혼자 해내는 빌더이자 AI 강사입니다.
+기업·기관의 반복 업무를 AI와 자동화 도구로 바꾸고, 담당자가 직접 쓸 수 있도록 교육합니다.
 
-🔗 **전체 프로젝트 케이스 스터디 → [stanlee7.vercel.app](https://stanlee7.vercel.app)**
+**교육·자동화 구축 문의 → [agenaile.com 견적 요청](https://agenaile.com/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme#quote)**
 
-## 대표 프로젝트
+## 한국 업무 자동화 도구
 
-| 프로젝트 | 한 줄 소개 | 링크 |
+한/글·엑셀·사내 문서처럼 한국 실무에서 매일 다루는 파일을 대상으로 만든 도구입니다.
+
+| 도구 | 하는 일 | 링크 |
 |---|---|---|
-| **YTHINK** | 유튜브 링크와 함께 쓰는 무드일기 — Google Play 정식 출시 | [Play스토어](https://play.google.com/store/apps/details?id=com.stanleetam.mymooddiary) |
-| **HWP 배치** | 수료증 300장, 클릭 한 번에 — 한/글 대량 자동화 (무료 배포 중) | [다운로드](https://hwp-batch.vercel.app) |
-| **FitPick** | 교육 에이전시용 강사 큐레이션 SaaS | [라이브](https://fitpick-nine.vercel.app) |
-| **FireGuard** | 소방 자체점검 보고서, 4시간 → 15분 | [라이브](https://fireguard-saas.vercel.app) |
-| **누끼 텍스트** | 포토샵 없이 인물 뒤로 텍스트 — 썸네일 1초 완성 | [라이브](https://text-behind-image-nine.vercel.app) |
-| **CounselNote** | 심리상담 기록 로컬 AES-256 암호화 + AI SOAP 노트 | [레포](https://github.com/stanlee7/counselnote) |
+| **hwp-batch** | 한/글(HWP) 문서 대량 생성·일괄 변환 — 메일머지로 수료증·공문 만들기, HWP→PDF 일괄 변환 | [저장소](https://github.com/stanlee7/hwp-batch) · [다운로드](https://hwp-batch.vercel.app) |
+| **pii-guard** | 사내 문서(HWP·엑셀·워드·PDF) 속 개인정보를 PC 안에서 탐지·마스킹 — 외부 전송 없는 오프라인 도구 | [저장소](https://github.com/stanlee7/pii-guard) |
+| **doc-batch** | 폴더째 넣은 문서를 로컬 AI로 일괄 요약·분류하고 민감정보를 가려 엑셀로 정리 | [저장소](https://github.com/stanlee7/doc-batch) |
+| **docforge** | 엑셀 명단 한 줄마다 개인별 AI 문서를 일괄 생성 — 로컬 모델 사용 | [저장소](https://github.com/stanlee7/docforge) |
+| **mail-batch** | 엑셀 명단으로 개인별 메일 일괄 발송 — 이름 치환, 개인별 첨부 자동 매칭 | [저장소](https://github.com/stanlee7/mail-batch) |
+| **My-shorts** | 긴 영상에서 하이라이트를 골라 쇼츠로 자동 편집 | [저장소](https://github.com/stanlee7/My-shorts) · [데모](https://my-shorts.vercel.app) |
 
-## 만드는 방식
+## 이렇게 일합니다
 
-Next.js · TypeScript · Supabase · Expo · Python — 그리고 Claude Code를 비롯한 AI 도구를 풀스택으로 씁니다.
-만드는 과정 자체를 콘텐츠로 기록합니다.
+- 조직의 실제 업무 흐름을 보고, AI가 맡을 일과 사람이 맡을 일을 나눕니다
+- 개인정보가 섞인 문서는 가능한 한 PC 안에서 처리하는 방식을 우선합니다
+- 도구를 넘기는 데서 끝내지 않고, 담당자가 직접 쓰고 고칠 수 있도록 교육합니다
 
-📮 협업·강의 문의: stanlee7@naver.com
+📮 문의: [agenaile.com 견적 요청](https://agenaile.com/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme#quote)
